@@ -1,1 +1,3 @@
-hotkey: https://docs.google.com/spreadsheets/d/1soJLJnNKb-CveaXMZXmxpiZKALa3hRpZMGxjuUkpa2s/edit?usp=sharing
+- hotkey: https://docs.google.com/spreadsheets/d/1soJLJnNKb-CveaXMZXmxpiZKALa3hRpZMGxjuUkpa2s/edit?usp=sharing
+- git: https://github.com/vnn1489/cli/
+- vim: 
