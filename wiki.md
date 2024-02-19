@@ -13,3 +13,5 @@ version control   https://vnn1489.notion.site/version-control-3a499a0ed6304244a5
 operating system  https://vnn1489.notion.site/operating-system-7159718278db48a4a1eb5019ce2435f1?pvs=4
 
 hotkey            https://docs.google.com/spreadsheets/d/1soJLJnNKb-CveaXMZXmxpiZKALa3hRpZMGxjuUkpa2s/edit?usp=sharing
+
+english           https://docs.google.com/spreadsheets/d/1gyBcCqkliQA4AgKWByUa05H_iE0Sh3_HFxeskMvvkXQ/edit?usp=sharing
