@@ -1,3 +1,5 @@
+vim               https://vnn1489.notion.site/vim-36152d6a32284f9eaa26793c614ae90e?pvs=4
+
 cloud             https://vnn1489.notion.site/cloud-120ff43239c64ede9509458d7f9e362d?pvs=4
 
 web server        https://vnn1489.notion.site/wed-server-23ee6f8620354bd0a36488344824a17d?pvs=4
